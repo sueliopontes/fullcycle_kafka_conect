@@ -1,0 +1,1 @@
+# fullcycle_kafka_conect
